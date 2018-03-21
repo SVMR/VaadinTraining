@@ -1,0 +1,85 @@
+./administrator
+Passw0rd
+
+oracle
+--------
+system
+cgi@123
+
+https://github.com/eswaribala/rps_cgi_vaadin2018.git
+
+
+
+
+D:\VAADIN\VAADIN_WS
+
+C:\oraclexe\app\oracle\product\11.2.0\server\bin;
+D:\app\Administrator\product\11.2.0\client_1\bin;
+C:\ProgramData\Oracle\Java\javapath;
+%SystemRoot%\system32;
+%SystemRoot%;
+%SystemRoot%\System32\Wbem;
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+
+
+
+
+C:\oraclexe\app\oracle\product\11.2.0\server\bin;
+D:\app\Administrator\product\11.2.0\client_1\bin;
+%JAVA_HOME%\bin;
+%SystemRoot%\system32;
+%SystemRoot%;
+%SystemRoot%\System32\Wbem;
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
+
+
+
+
+
+WARNING: Could not find jvm.cfg! in 
+'C:\Program Files\Java\jdk1.8.0_161\jre\lib\jvm.cfg'
+WARNING: Cannot find default VM "client" at C:\Program Files\Java\jdk1.8.0_161
+ERROR: Cannot find VM at: C:\Program Files\Java\jdk1.8.0_161
+Aborting!
+
+
+
+
+
+http://repo.maven.apache.org/maven2/archetype-catalog.xml
+
+
+http://repo.maven.apache.org/maven2/archetype-catalog.xml
+
+
+
+Create Sample project from cmd:
+
+mvn archetype:generate -DgroupId=com.cgi.banking -DartifactId=BangakingAppIn -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+
+
+mvn archetype:generate -DgroupId=com.cgi.telecom -DartifactId=TelecomTestProj -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+MAVEN WEBAPP
+archetype is 
+maven-archetype
+
+
+
+clear life cycle - to clean the project
+site life cycle - to generate the documentation abt project
+
+
+Maven parameterized plugin:
+	mvn -Denv=win64 clean install
+
+-------
+EclipseLink:
+------------
+JPA provider
+
+	
+
